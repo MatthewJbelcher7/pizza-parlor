@@ -107,9 +107,15 @@ Expected Ouput:
 * Javascript
 
 ## Description
+This program will allow a user to order a pizza by imputting who the order is for, selecting a size, selecting toppings, and create a price variable that changes based on the toppings and has a scaling adjustment following the size.
 
 
 ### Objectives 
+Constructors and prototypes are used successfully.
+Application works as expected.
+Tests are included for each business logic behavior and code is committed after each test passes.
+Project is in a polished, portfolio-quality state.
+The prompt’s required functionality and baseline project requirements are in place by the deadline.
 
 
 
