@@ -30,6 +30,13 @@ Code: myPizza.toppings
 Expected Output:
 (3) ['pepperoni', 'pineapple', 'jalapenos']
 
+Describe: pizzaSize
+Test: "It should allow the selection of a size from an array"
+Code: pizzaSize.size[2]
+Expected Output:
+"large"
+
+
 
 
 
