@@ -1,8 +1,7 @@
-// I need to create a pizza object constructor with properties for toppings and the size of the pizza. If the pizza goes up in size its costs the facility more for toppings and the price should reflect that.
+<!-- // I need to create a pizza object constructor with properties for toppings and the size of the pizza. If the pizza goes up in size its costs the facility more for toppings and the price should reflect that.
 
-Users need to be able to select from a variety of extra toppings. We should include additional price for extra meats/cheeses but have the price maintain the same for vegies.
+Users need to be able to select from a variety of extra toppings. We should include additional price for extra meats/cheeses but have the price maintain the same for vegies. -->
 
-Use the prototype method to 
 
 
 Describe: function myPizza() 
@@ -35,6 +34,59 @@ Test: "It should allow the selection of a size from an array"
 Code: pizzaSize.size[2]
 Expected Output:
 "large"
+
+Describe: pizzaTopping
+Test: "It should have a value that can be returned"
+Code: pizzaToppings
+Expected Output:
+meat: ''
+
+Test: "It should have a multiple values from multiple arrays that can be returned"
+Code: pizzaToppings.
+Expected Output:
+{sauce: Array(3), meat: Array(3), vegies: Array(3), cheese: Array(3)}
+
+Test: "It should have an array of which we can select"
+Code: pizzaToppings.meat[0]
+Expected Ouput:
+'pepperoni'
+
+Test: 
+Code:
+Expected Ouput:
+
+Test:
+Code:
+Expected Ouput:
+
+Test:
+Code:
+Expected Ouput:
+
+Test:
+Code:
+Expected Ouput:
+
+Test:
+Code:
+Expected Ouput:
+
+Test:
+Code:
+Expected Ouput:
+
+Test:
+Code:
+Expected Ouput:
+
+Test:
+Code:
+Expected Ouput:
+
+
+
+
+
 
 
 
