@@ -10,6 +10,11 @@ Test: "It should return a pizza object"
 Code: myPizza
 Expected Output: function myPizza() {}
 
+Test: "It should return a property 'guest'."
+Code: myPizza.guest
+Expected Output:
+'matt'
+
 Test: "It should return a property 'Toppings'."
 Code: myPizza.toppings
 Expected Output:
@@ -25,10 +30,7 @@ Code: myPizza.toppings
 Expected Output:
 (3) ['pepperoni', 'pineapple', 'jalapenos']
 
-Test: "It should return an array of toppings"
-Code: myPizza.toppings
-Expected Output:
-(3) ['pepperoni', 'pineapple', 'jalapenos']
+
 
 
 
