@@ -9,9 +9,11 @@ function Pizza(pizzaGuest, pizzaToppings, pizzaSize) {
 
 let pizzaSize = {size: ["small", "medium", "large"]}
 
-  let pizzaToppings = {
+let pizzaToppings = {
     sauce: ["marinera", "alfredo", "buffalo"],
     meat: ["pepperoni", "sausage", "chicken"],
     vegies: ["mushroom", "jalapeno", "olive"],
     cheese: ["mozzarella", "parmesan", "blue-cheese"],
 }
+
+
